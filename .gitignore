@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Database dumps or temp files
+*.sqlite3
+*.db
+*.sql
+*.bak
+*.dump
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks Checkpoints
+.ipynb_checkpoints/
+
+# Python environment files
+*.env
+*.env.*
+
+# Logs and debug
+*.log
+logs/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# GIS and shapefile artifacts
+*.shp
+*.shx
+*.dbf
+*.prj
+*.qgs~
+*.aux.xml
+*.tif
+*.geojson
+
+# CSV and data files
+*.csv
+*.tsv
+*.xlsx
+
+# Test outputs
+*.out
+*.tmp
+
+# Compiled binaries
+*.o
+*.exe
+*.so
+*.dll
+*.a
+*.out
+
+# Mac/Linux backup files
+*~
+*.swp
+*.numbers
